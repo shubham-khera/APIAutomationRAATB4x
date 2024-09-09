@@ -5,31 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6acb14a-b6f0-4cbf-9e07-db20f256375b" name="Changes" comment="First">
-      <change afterPath="$PROJECT_DIR$/allure-results/0e3402f2-15f7-4f20-97c7-09ffcf093d4d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/138c1c57-0ff2-4c3b-a822-11649a6b5f3b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/156bdff7-8fb1-4769-a3ab-76b982d9b617-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/210e5c5a-bd06-4ae1-8d28-bb469dd9cb32-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/3841e4dc-9579-430b-be30-3cf001af6641-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/53b7b4c6-7ff7-403b-a1d9-d17aa3a25412-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/62a1c40b-807c-4308-a9c4-9d094316d177-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/644e0ece-a562-4e3f-93d4-b1cc4e2fa4b3-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/67d3ccb1-a4f5-4db4-a4d0-2b3f06bf28f5-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7a0c08bc-0e95-4457-b27b-88ec6aadc886-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/847440c2-ce27-4f8a-b80d-4fad9042b0d4-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/8825424c-8772-4682-a149-ddc2a746084c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/8e736514-14bd-42cf-8172-9f17259115e4-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/9980575f-3696-4fd1-ba99-42edcc4ef633-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/9992dfde-b987-4396-bd9d-96dd8137bb44-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/aae7bb73-3b01-49f9-a791-c5a0f27f2ad3-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b7f5f316-5f85-484c-a690-71e431949a60-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e5fcf794-2cf3-48a1-b801-9ced13cf7377-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e6b10fd0-c979-4dec-929f-8c6b252806d5-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f390af82-5bef-4f38-a5cd-baacf0536290-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/RATestNG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/RestAssuredHelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes/RA2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes/RestAssured.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +25,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "shubham-khera"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/shubham-khera/APIAutomationRAATB4x.git",
+    "accountId": "4a04b512-6c2d-47f5-a6c7-0a30d1be8bc0"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2lmsBPdzTtlCc8nMh778NO4cVSj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -70,10 +61,20 @@
     "TestNG.RATestNG.executor": "Run",
     "TestNG.RATestNG.getRequest.executor": "Run",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/shubh/IdeaProjects/APIAutomationRAATB4x/Notes",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.RATestNG">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shubh\IdeaProjects\APIAutomationRAATB4x\Notes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.RATestNG.getRequest">
     <configuration name="RestAssuredHelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.RestAssuredHelloWorld" />
       <module name="APIAutomationRAATB4x" />
@@ -155,8 +156,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.RATestNG" />
         <item itemvalue="TestNG.RATestNG.getRequest" />
+        <item itemvalue="TestNG.RATestNG" />
         <item itemvalue="JUnit.RATestNG.getRequest" />
         <item itemvalue="JUnit.RATestNG" />
         <item itemvalue="Application.RestAssuredHelloWorld" />
